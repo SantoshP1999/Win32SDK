@@ -1,0 +1,5 @@
+cl.exe /c /EHsc Window.c
+
+Link.exe Window.obj User32.lib gdi32.lib /SUBSYSTEM:WINDOWS
+
+Window.exe
