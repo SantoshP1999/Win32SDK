@@ -1,0 +1,4 @@
+#include "Window.h"
+
+SBP_ICON ICON S.ico
+
