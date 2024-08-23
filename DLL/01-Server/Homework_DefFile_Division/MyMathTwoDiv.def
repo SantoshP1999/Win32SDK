@@ -1,0 +1,4 @@
+LIBRARY MyMathTwoDiv.dll
+EXPORTS 
+	  MakeDiv
+

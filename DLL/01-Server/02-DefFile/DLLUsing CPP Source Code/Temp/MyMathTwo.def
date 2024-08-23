@@ -1,0 +1,6 @@
+LIBRARY MyMathTwo.dll
+EXPORTS 
+	  MakeCube PRIVATE
+
+
+
